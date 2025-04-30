@@ -1,3 +1,4 @@
+![Oscar-image-banner](https://i.pinimg.com/originals/0e/35/f5/0e35f5b16b8ba60a10fdd360de075def.gif)
 # Hello, I'm Oscar & Welcome to my Github Profile
 
 - 🔭 I’m currently working on ...
