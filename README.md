@@ -1,8 +1,19 @@
 ![Oscar-image-banner](https://i.pinimg.com/originals/0e/35/f5/0e35f5b16b8ba60a10fdd360de075def.gif)
 # Hello, I'm Oscar & Welcome to my Github Profile
 
+## Education
+- 🌱 I’m currently learning in [Moringa School](https://moringaschool.com/)
+
+- I have Experience with programming Languages i.e 
+   - HTML
+   - CSS
+   - Javascript
+   - React
+   - JSON
+   - Vite
+
+## Hobbies
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
