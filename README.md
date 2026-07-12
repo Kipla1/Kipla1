@@ -125,10 +125,10 @@ Local-first desktop POS replacing paper records for a household goods store.
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:REPLACE_WITH_YOUR_EMAIL">
+  <a href="mailto:oscarkiplaaa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/oscar-kiplagat/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </p>
